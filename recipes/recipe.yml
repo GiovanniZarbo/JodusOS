@@ -50,7 +50,7 @@ modules:
 
   - type: os-release
     properties:
-    ID: jodusos-d
-    NAME: JodusOS D
-    PRETTY_NAME: JodusOS Desktop
-    ID_LIKE: fedora
+      ID: jodusos-d
+      NAME: JodusOS D
+      PRETTY_NAME: JodusOS Desktop
+      ID_LIKE: fedora
