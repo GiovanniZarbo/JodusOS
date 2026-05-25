@@ -29,6 +29,7 @@ modules:
         - btop
         - kitty
         - sddm-kcm
+        - luv-icon-theme
     remove:
       packages:
         - firefox
@@ -47,7 +48,9 @@ modules:
 
   - type: signing # this sets up the proper policy & signing files for signed images to work fully
 
-
+  - type: script
+    snippets:
+      - "install-cursors.sh"
 
   - type: os-release
     properties:
