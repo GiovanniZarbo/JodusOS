@@ -1,7 +1,7 @@
 #!/bin/bash
 
 set -exuo pipefail
-
+# checking out other's people work lol
 VERSION=0-0.1.20250607git3f17650.fc42
 URL=https://github.com/winblues/blue7/releases/download/aerothemeplasma-${VERSION}/aerothemeplasma-${VERSION}.x86_64.rpm
 
