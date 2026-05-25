@@ -49,9 +49,9 @@ modules:
 
 
 
-    - type: script
+  - type: script
         snippets:
-          - echo "/usr/bin/fastfetch -c default" >> /etc/bashrc
+            - echo "/usr/bin/fastfetch -c default" >> /etc/bashrc
           
           
           
