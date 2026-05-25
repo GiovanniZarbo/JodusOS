@@ -28,6 +28,7 @@ modules:
         - fastfetch
         - btop
         - kitty
+        - sddm-kcm
     remove:
       packages:
         - firefox
