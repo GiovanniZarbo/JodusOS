@@ -6,7 +6,7 @@ mkdir -p /usr/share/icons
 mkdir -p /tmp/cursori_temp
 
 # 2. Estrae lo zip dal percorso corretto di BlueBuild
-unzip /tmp/files/tmp/*.zip -d /tmp/cursori_temp
+unzip /tmp/files/tmp/cursors/*.zip -d /tmp/cursori_temp
 
 # 3. Sposta i cursori nella cartella di sistema delle icone
 mv /tmp/cursori_temp/* /usr/share/icons/
