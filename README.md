@@ -2,7 +2,7 @@
 
 My custom Fedora Atomic spin based off Aurora:latest, built with BlueBuild.
 
-**Links:** [BlueBuild Docs]([https://blue-build.org/](https://blue-build.org/learn/getting-started/)) | [Aurora](https://getaurora.dev/)
+**Links:** [BlueBuild Docs](https://blue-build.org/learn/getting-started/) | [Aurora](https://getaurora.dev/)
 
 ---
 
