@@ -1,6 +1,6 @@
 # 💻 JodusOS
 
-My custom Fedora Atomic spin based off Aurora:latest, built with BlueBuild.
+My custom Fedora Atomic spin based off Aurora:stable, built with BlueBuild.
 
 **Links:** [BlueBuild Docs](https://blue-build.org/learn/getting-started/) | [Aurora](https://getaurora.dev/)
 
