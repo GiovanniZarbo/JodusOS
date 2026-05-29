@@ -1,12 +1,12 @@
 # 💻 JodusOS
 
-My custom Fedora Atomic spin inspired by Aurora, built with BlueBuild.
+My custom Fedora Atomic spin based off Aurora:latest, built with BlueBuild.
 
-🔗 **Links:** [BlueBuild Docs](https://blue-build.org/) | [Aurora](https://getaurora.dev/)
+**Links:** [BlueBuild Docs](https://blue-build.org/) | [Aurora](https://getaurora.dev/)
 
 ---
 
-## 🚀 First Time Install (Rebase)
+## First Time Install (Rebase)
 
 Run these commands if you are switching to JodusOS for the first time.
 
@@ -20,7 +20,7 @@ Run these commands if you are switching to JodusOS for the first time.
 
 ---
 
-## 📌 Maintenance Commands
+## Maintenance Commands
 
 * **Update OS:** `rpm-ostree upgrade`
 * **Check Status:** `rpm-ostree status`
@@ -29,7 +29,7 @@ Run these commands if you are switching to JodusOS for the first time.
 
 ---
 
-## 🛒 Todo List & Notes
+## Todo List & Notes
 
 - [x] Larp
 - [x] Larp more
