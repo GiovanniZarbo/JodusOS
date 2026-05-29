@@ -10,11 +10,11 @@ My custom Fedora Atomic spin based off Aurora:latest, built with BlueBuild.
 
 Run these commands if you are switching to JodusOS for the first time.
 
-**Step 1: Rebase to the unsigned image (imports signing keys)**
+**Step 1: Unsigned image**
 `rpm-ostree rebase ostree-unverified-registry:ghcr.io/giovannizarbo/jodusos:latest`
 `systemctl reboot`
 
-**Step 2: Rebase to the signed image (locks security)**
+**Step 2: Signed image**
 `rpm-ostree rebase ostree-image-signed:docker://ghcr.io/giovannizarbo/jodusos:latest`
 `systemctl reboot`
 
@@ -24,7 +24,7 @@ Run these commands if you are switching to JodusOS for the first time.
 
 * **Update OS:** `rpm-ostree upgrade`
 * **Check Status:** `rpm-ostree status`
-* **Force Rebase (If I break something):**
+* **Force Rebase:**
   `rpm-ostree rebase ostree-image-signed:docker://ghcr.io/giovannizarbo/jodusos:latest`
 
 ---
