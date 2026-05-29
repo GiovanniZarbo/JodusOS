@@ -8,7 +8,6 @@ My custom Fedora Atomic spin based off Aurora:latest, built with BlueBuild.
 
 ## First Time Install (Rebase)
 
-Run these commands if you are switching to JodusOS for the first time.
 
 **Step 1: Unsigned image**
 `rpm-ostree rebase ostree-unverified-registry:ghcr.io/giovannizarbo/jodusos:latest`
