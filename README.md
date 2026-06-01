@@ -21,7 +21,7 @@ My custom Fedora Atomic spin based off Aurora:stable, built with BlueBuild.
 
 ## Maintenance Commands
 
-* **Update OS:** `rpm-ostree upgrade`
+* **Update OS:** `bootc upgrade` or `ujust update`
 * **Check Status:** `rpm-ostree status`
 * **Force Rebase:**
   `rpm-ostree rebase ostree-image-signed:docker://ghcr.io/giovannizarbo/jodusos:latest`
