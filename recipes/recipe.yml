@@ -3,7 +3,7 @@
 # image will be published to ghcr.io/<user>/<name>
 name: jodusos
 # description will be included in the image's metadata
-description: This is my personal OS image.
+description: Personal image based of Aurora
 
 # the base image to build on top of (FROM) and the version tag to use
 base-image: ghcr.io/ublue-os/aurora
@@ -44,7 +44,6 @@ modules:
           - it.mijorus.gearlever
           - io.github.giantpinkrobots.flatsweep
           - com.github.wwmm.easyeffects
-      - scope: user # Also add Flathub user repo, but no user packages
 
   - type: signing # this sets up the proper policy & signing files for signed images to work fully
 
