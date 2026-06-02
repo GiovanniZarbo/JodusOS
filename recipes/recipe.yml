@@ -28,7 +28,6 @@ modules:
         - fastfetch
         - btop
         - kitty
-        - sddm-kcm
         - luv-icon-theme
     remove:
       packages:
