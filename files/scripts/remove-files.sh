@@ -1,0 +1,1 @@
+rm -f /etc/profile.d/ublue-fastfetch.sh

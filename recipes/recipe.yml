@@ -52,6 +52,7 @@ modules:
     scripts:
       - install-cursors.sh
       - install-icons.sh
+      - remove-files.sh
 
   - type: os-release
     properties:
