@@ -28,10 +28,4 @@ My custom Fedora Atomic spin based off Aurora:stable, built with BlueBuild.
 
 ---
 
-## Todo List & Notes
-
-- [x] Larp
-- [x] Larp more
-- [ ] Add plasma greeter theme
-- [ ] Add more Flatpaks
-- [ ] Actually daily Drive it
+This rebase is intended for my personal use. If you want something similar, you should check https://blue-build.org/
