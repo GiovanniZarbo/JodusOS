@@ -28,4 +28,4 @@ My custom Fedora Atomic spin based off Aurora:stable, built with BlueBuild.
 
 ---
 
-This rebase is intended for my personal use. If you want something similar, you should check https://blue-build.org/
+This rebase is intended for my personal use. If you want something similar you should check https://blue-build.org/
